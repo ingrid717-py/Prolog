@@ -203,8 +203,8 @@ Algunos de los operadores que Prolog puede utilizar son los siguientes:
 | Operador | Significado       | Ejemplo    | 
 |----------|-------------------|----------- |
 | is       | Unificación       | Y is 2+3   |
-| =:=      | Igualdad          | 5 =: 2+3   |
-| =\\=      | Desigualdad       | 7 =\\= 5+4  |
+| =:=      | Igualdad          | 5 =:= 2+3  |
+| =\\=     | Desigualdad       | 7 =\\= 5+4 |
 | >        | Mayor que         | 24 > 2^3   |
 | <        | Menor que         | 15 < 17    |
 | >=       | Mayor o igual que | 3 >= 1     |
