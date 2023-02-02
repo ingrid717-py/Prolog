@@ -45,14 +45,17 @@ Después, se ejecuta el archivo descargado y se abrirá la ventana de instalaci�
 Luego, se debe elegir la ruta de instalación del Visual Studio Code (o dejar la ruta predeterminada) y dar click en Siguiente.
 
 ![vscodeins](src/vscode3.png)
+
 Seguidamente, se debe seleccionar el nombre que se desea para la carpeta de Inicio (o dejar la opción predeterminada) y se da click en Siguiente.
 
 ![vscodeins](src/vscode4.png)
+
 Subsecuentemente, se deben seleccionar las Tareas Adicionales que se desean (o dejar las opciones predeterminadas) y se procede a dar click en Siguiente.
 
 ![vscodeins](src/vscode5.png)
 
 La siguiente sección mostrará todas las configuraciones que se realizarán al momento de instalar Visual Studio Code. Se procede a dar click en Instalar.
+
 ![vscodeins](src/vscode6.png)
 
 Una vez la instalación haya finalizado aparecerá una ventana que permite abrir Visual Studio Code una vez se seleccione la opción Finalizar. Se deja marcada la opción y se selecciona la opción Finalizar.
@@ -74,6 +77,7 @@ Se abrirá una ventana y se selecciona la opción de "Variables de entorno".
 ![vscodeins](src/variable2.png)
 
 Se abrirá una nueva pestaña y se selecciona la variable "Path" que se encuentra en la sección de "Variables del Sistema".
+
 ![vscodeins](src/variable3.png)
 
 Se abrirá una nueva ventana y se da click en la opción "Nuevo". Después se agregará la ruta de la carpeta bin de SWI Prolog (swipl). Una vez se haya ingresado la ruta de la carpeta se dará click en las opciones de "Aceptar" o "Aplicar" en las ventanas que se abrieron previamente.
@@ -366,6 +370,7 @@ carnivore(lion).
 carnivore(tiger).
 ```
 ![Extensión](src/backtracking_example3.jpeg)
+
 En este programa de animales carnivoros usando únicamente hechos sin reglas es posible saber dado un predicado quienes son todos los atomos que cumplen el hecho de ser carnivoro que en este caso son el león y el tigre.
 
 ## Extensiones
